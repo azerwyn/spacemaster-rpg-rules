@@ -39,10 +39,10 @@ Combatants may normally use up to a total of 100% activity in a single round.
 | Activity | percentages |
 | --- | --- |
 Movement / Moving Maneuver | Minimum 10%
-Melee Attack/Parry | 60%-100%
-Ranged Attack | 30%-60%
+Melee Attack/Parry | 50%-100%
+Ranged Attack | 25%-75%
 Dodge | 50%-100%
-Ammo reload | 60%
+Ammo reload | 25%
 Draw weapon/ammo/item | 20%
 Changing weapons | 50%
 Perception Roll | 10%-30%
@@ -51,7 +51,8 @@ Simple Actions (GM's Discretion) | 10%-30%
 Complex Actions (GM's Discretion) | 20%-100
 
 Actions with a % range (e.g. 50%-100%) can be performed at a penalty of __-1__ for each % less than the normal maximum.
-Combatants may only declare 1 melee attack action per round.
+
+Combatants may normally only declare 1 melee attack/parry/dodge action per round.
 
 ### Upkeep step
 End of turn each combatant:
